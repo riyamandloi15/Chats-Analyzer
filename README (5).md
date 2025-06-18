@@ -37,7 +37,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   https://github.com/riyamandloi15/chat_deploy.git
+   https://github.com/riyamandloi15/Chats-Analyzer.git
    ```
 2. Navigate to the project directory:
    ``` shell
